@@ -1,4 +1,4 @@
 Welcome to Demo repository
 
 
-This is show how repository works with githhub
+This is to show how repository works with githhub
